@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/edyemy980656/Contosor/_apis/build/status/Asher73.ContosoAir?branchName=master)](https://dev.azure.com/edyemy980656/Contosor/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
